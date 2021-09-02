@@ -10,6 +10,8 @@ As operações foram testadas no programa de API Client chamada Insomnia.
 
 Essa operação descreve a API.
 
+![image](https://raw.githubusercontent.com/Dagmar87/calculator/main/img/about.png)
+
 #### Soma
 
 Essa operação realizar a soma de dois numeros. 
