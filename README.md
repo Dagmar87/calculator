@@ -1,6 +1,6 @@
 ## Calculator
 
-Esse projeto NodeJS foi desenvolvido por José Dagmar Florentino da Silva Sobrinho para o Desafio iUPay. O projeto consiste na criação de uma API de uma calculadora simples que irá realizar as funções basicas e calculo da expressão do exemplo do enunciado do desafio.
+Esse projeto NodeJS foi desenvolvido por José Dagmar Florentino da Silva Sobrinho para o Desafio iUPay. O projeto consiste na criação de uma API de uma calculadora simples que irá realizar as funções basicas e o calculo da expressão baseado no exemplo do enunciado do desafio.
 
 ### As operações aritmeticas e resultados da API
 
