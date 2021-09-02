@@ -37,6 +37,7 @@ URL desta operação: http://localhost:3000/calculator/div/{n1}/{n2}
 #### Expressão (Result = n1 + n2 * n3 / n4 - n5)
 
 Essa operação realizar a expressão aritmetica  "Result = n1 + n2 * n3 / n4 - n5".
+
 Essa expressão é baseada no exemplo do enunciado do desafio.
 
 URL desta operação: http://localhost:3000/calculator/exp/{n1}/{n2}/{n3}/{n4}/{n5}
